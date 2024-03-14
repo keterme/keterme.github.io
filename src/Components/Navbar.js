@@ -20,7 +20,7 @@ function Navbar() {
         <header>
             <Avatar
                 alt="Elvis"
-                src="../../assets/elvis.jpg"
+                src="../../site/assets/elvis.jpg"
                 sx={{ width: 56, height: 56 }}
             />
             <nav ref={navRef}>
